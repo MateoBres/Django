@@ -1,3 +1,3 @@
-# Django
-Tienda de ropa para venta online
-Proyecto en curso de desarrollo para aplicar conocimientos de Django, se trata de una pagina web dedicada a la venta de ropa con un database dedicado para el almacen de productos.
+# My first porject with Django
+Online clothing store, study project for Django course, learned the MTV model, use of database SQLite3 for dev and MySQL for production. How to create a table based on the database query Also learned how to deploy a project on a pythonanywhere.com, a free web hosting. 
+
